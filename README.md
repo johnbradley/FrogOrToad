@@ -6,6 +6,7 @@ Machine Learning code to predict if a picture is a Frog or a Toad
 
 
 
+
 [^1]: Image from https://en.wikipedia.org/wiki/Toad.
 [^2]: Image from https://en.wikipedia.org/wiki/Panamanian_golden_frog.
 
@@ -17,3 +18,4 @@ The images were retrieved by searching for `toad animal` and `frog animal` with 
 ## Predicting
 The [Prediction Notebook](FrogOrToadPredict.ipynb) allows the user to upload an image and calculate the predictions.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnbradley/FrogOrToad/HEAD?labpath=FrogOrToadPredict.ipynb)

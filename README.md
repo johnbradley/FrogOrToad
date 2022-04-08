@@ -1,5 +1,13 @@
-# FrogOrToad
+# Frog Or Toad
 Machine Learning code to predict if a picture is a Frog or a Toad
+
+![Toad Image](320px-Bombina_bombina_1_(Marek_Szczepanek)_tight_crop.jpeg)[^1] ![Frog Image](320px-Atelopus_zeteki1.jpeg)[^2]
+
+
+
+
+[^1]: Image from https://en.wikipedia.org/wiki/Toad.
+[^2]: Image from https://en.wikipedia.org/wiki/Panamanian_golden_frog.
 
 ## Training
 A model was created using the [fastai](https://github.com/fastai/fastai) package and hundreds of images.
